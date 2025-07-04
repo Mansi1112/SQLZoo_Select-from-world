@@ -1,7 +1,5 @@
 # SQLZoo_Select-from-world
 you can get the solutions of "https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial" in this folder
-# SQLZoo_Select-from-world
-you can get the solutions of "https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial" in this folder
 
 /* Qun 1- Read the notes about this table. Observe the result of running this SQL command to show the name, continent and population of all countries.
 
